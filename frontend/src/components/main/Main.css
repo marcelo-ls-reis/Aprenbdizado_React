@@ -1,0 +1,7 @@
+.main {
+    height: 99.5vh;
+    border: 0.2vh solid rgb(105, 151, 59);
+    border-radius: 4px;
+    margin: 0.2%;
+    background-color: rgb(95, 95, 86);
+  }

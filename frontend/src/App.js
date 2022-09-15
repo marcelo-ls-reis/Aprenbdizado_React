@@ -1,13 +1,14 @@
-import './App.css';
+import React from "react"
+import Routers from "./Routers.js"
+import { BrowserRouter } from "react-router-dom"
+import "./App.css"
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Pagina inicail</h1>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Routers />
+    </BrowserRouter>
   );
 }
 
-export default App;
+export default App

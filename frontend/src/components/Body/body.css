@@ -1,0 +1,10 @@
+.body {
+    display: flex;
+    height: 79vh;
+    border: 0.2vh solid blue;
+    border-radius: 4px;
+    margin: 0.2% 0.2% 0.2% 0.2%;
+    background-color: rgb(146, 241, 146);
+    background-position: center;
+    background-attachment: fixed;
+  }
